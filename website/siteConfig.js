@@ -15,7 +15,7 @@ const siteConfig = {
     title: 'Prateek Bahl', // Title for your website.
     tagline: 'I eat Data for breakfast',
     profilePhoto: 'img/profile.png',
-    url: 'https://github.com/prateek681', // Your website URL
+    url: 'https://prateek681.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
